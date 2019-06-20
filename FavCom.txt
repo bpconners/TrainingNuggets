@@ -13,18 +13,12 @@ git add .
 git commit -m "message"
 git push
 
-
-
-
-
 npm install
-
 
 ng new theProjectName
 ng generate
 ng serve
 ng build
-
 
 ps dir -force
 ps dir m*
