@@ -1,0 +1,33 @@
+git init
+
+git clone theURL
+git clone --recursive git://github.com/foo/bar.git
+git remote show origin
+git remote -v
+git remote get-url origin
+git config --get remote.origin.url
+git remote rm origin
+git remote add origin theURL
+git add theFileName
+git add .
+git commit -m "message"
+git push
+
+
+
+
+
+npm install
+
+
+ng new theProjectName
+ng generate
+ng serve
+ng build
+
+
+ps dir -force
+ps dir m*
+
+cmd Remove -Recurse -Force theDirectory
+cmd rm -r -fo theDirectory
