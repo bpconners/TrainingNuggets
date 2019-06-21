@@ -12,6 +12,7 @@ git add theFileName
 git add .
 git commit -m "message"
 git push
+git checkout -b CurDev
 
 npm install
 
