@@ -12,6 +12,9 @@ git add theFileName
 git add .
 git commit -m "message"
 git push
+git checkout -b theBranch
+git branch theBranch
+git checkout theBranch
 
 npm install
 
