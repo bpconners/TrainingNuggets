@@ -1,2 +1,3 @@
 This is the main file
-Assign to master branch
+Assign to master all Branches
+

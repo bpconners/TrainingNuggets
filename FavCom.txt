@@ -12,7 +12,29 @@ git add theFileName
 git add .
 git commit -m "message"
 git push
+<<<<<<< HEAD
 git checkout -b CurDev
+=======
+git checkout -b theBranch
+git branch theBranch
+git checkout theBranch
+
+
+https://code.visualstudio.com/docs/getstarted/keybindings
+vsc Ctrl + ]
+vsc Ctrl + [
+vsc Ctrl + K, Ctrl + F      Select - Format
+vsc Ctrl + Shift + K       Del Line
+vsc Ctrl + Enter            Insert line above
+vsc Ctrl + Shift + Enter    Insert line below
+vsc Alt + Up
+vsc Alt + Down
+vsc Alt + Shift + Up
+vsc Alt + Shift + Down
+vsc Ctrl + D                Add selection to next find match
+vsc Ctrl + Shift + F        Find anywhere
+
+>>>>>>> master
 
 npm install
 
