@@ -28,6 +28,8 @@ vsc Alt + Shift + Up
 vsc Alt + Shift + Down
 vsc Ctrl + D                Add selection to next find match
 vsc Ctrl + Shift + F        Find anywhere
+vsc Ctrl + Shift + P        Bring up Program window
+vsc Git clone theURL        Clone a repo
 
 npm install
 
